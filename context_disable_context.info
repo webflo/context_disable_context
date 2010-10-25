@@ -1,0 +1,7 @@
+; $Id$
+name = "Context disable context reaction"
+dependencies[] = "context"
+description = "Disable certain contexts by another context."
+package = "Context"
+core = "6.x"
+
