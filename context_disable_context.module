@@ -34,7 +34,7 @@ function context_disable_context_context_registry() {
   return array(
     'reactions' => array(
       'disable_context' => array(
-        'title' => t('Disbable context'),
+        'title' => t('Disable context'),
         'plugin' => 'context_reaction_disable_context',
       ),
     ),
